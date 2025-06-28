@@ -1,0 +1,32 @@
+number = [7,2,5,8,3,6,7,4,9,10]
+
+# print(number.count(6))
+# number.pop()# remove the last element of the list pop()
+# print(number)
+# number.append(10)
+# print(number)
+#print(number.index(4))
+# number.clear()
+# print(number)
+# number.remove(8)
+# print(number)
+# number.sort()
+# print(number)
+#
+# number.insert(4,8)
+# print(number)
+# number.reverse()
+# print(number)
+
+# numberso = number.copy()
+# number.reverse()
+# print(number)
+# numberso.sort()
+# print("\n")
+# print(numberso)
+#append(),clear(),index(),count(),pop(),sort(),insert(),reverse(),copy(),remove()
+
+# number.remove(5)
+# number.reverse()
+# number.sort()
+# print(number)
